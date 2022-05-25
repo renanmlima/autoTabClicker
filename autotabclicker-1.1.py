@@ -22,8 +22,6 @@ import time
 # ---- Funcao que identifica a posicao do mouse na tela
 
 '''''
-print('-------Camaco-Amvian-------') 
-
 time.sleep(8)
 posicao = pyautogui.position()
 tamanho = pyautogui.size()
