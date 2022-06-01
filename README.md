@@ -5,7 +5,7 @@ Brasil, Atibaia
 
 ------------------------------------------------------------------------------- 
 
--------- FUNCIONALIDADE E LÓGICA:
+# FUNCIONALIDADE E LÓGICA:
 
 Foram utilizadas três bibliotecas:
 
@@ -23,7 +23,7 @@ A aplicação é iniciada após o pressionar do TAB, tecla essa, que envia as in
 do campo para o BD. O coletor fará o papel de pressionar o TAB após a leitura 
 do código de barras.
 
--------- AJUSTES NECESSÁRIOS:
+# AJUSTES NECESSÁRIOS:
 
 * É importante lembrar, que esse script funciona de acordo com as dimensões da
 tela do usuário, onde o mouse será posicionado exatamente onde for determinado 
